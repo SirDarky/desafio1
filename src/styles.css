@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+}
+
+body{
+  background-color: #e1e2e3;
+}
+
+@keyframes pulse {
+  0%{
+    transform:scale(1);
+  }
+
+  10%{
+    transform:scale(1.1);
+  }
+
+  20%{
+    transform:scale(0.9);
+  }
+
+  30%{
+    transform:scale(1.2);
+  }
+
+  40%{
+    transform:scale(0.9);
+  }
+
+  50%{
+    transform:scale(1.05);
+  }
+
+  60%{
+    transform:scale(0.95);
+  }
+
+  70%{
+    transform:scale(1.0);
+  }
+}

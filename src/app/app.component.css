@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+
+header{
+  font-family: 'Lexend Deca', sans-serif;
+  background: linear-gradient(88.27deg, #574AE8 0%, #3EA1DB 100%);
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
