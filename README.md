@@ -2,6 +2,17 @@
   - Primeiro desafio da Codelândia.
   - Figma: https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1
   - Tecnologias utilizadas: Angular/Typescript/CSS.
+  
+# Web:
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83254316/214793532-4aa32346-18f1-49e8-8f68-b9d33b5f6fcd.png" width="700px" />
+</div>
+
+# Mobile:
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83254316/214793830-853a5eca-9058-4c3b-8f09-b2815168e45e.png" width="350px" />
+</div>
+
 
 # Criação:
   - Utilizei componentes no Angular para cada noticia e para a barra de navegação.
